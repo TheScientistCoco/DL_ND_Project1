@@ -1,2 +1,2 @@
 # DL_ND_Project1
-Predicting Bike-Sharing Patterns
+Udacity Deep Learning Nanodegree Project 1: Predicting Bike-Sharing Patterns
